@@ -1,0 +1,4 @@
+build/**
+eval_times/*
+evals/*
+tests/*

@@ -6,7 +6,7 @@ git submodule update --init --recursive
 
 pushd src/opencilk
 
-ln -frs ../cheetah cheetah
-ln -frs ../cilktools cilktools
+ln -fs ../cheetah cheetah
+ln -fs ../cilktools cilktools
 
 popd
